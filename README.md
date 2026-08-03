@@ -1,2 +1,3 @@
 # myweb-weerasak
-การสร้าง repository เก็บ website เพื่อใช้แสดง
+การสร้าง repository เก็บหน้าแสดงผล website การ์ตูนของนาย weerasak sunsan
+สร้างโดยใช้ Github เพื่อออก URL
